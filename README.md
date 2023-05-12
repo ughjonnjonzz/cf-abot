@@ -36,16 +36,16 @@ Guess I should also mention that these tables are specifically for Dungeons and 
 # The Tables
 Everything from this point will be talking about the actual content of the tables themselves.
 
-  - Mechanical Choices
-    - Race + Subrace
-    - Class + Subclass
-    - Background
-    - Feats
-  - Personality Choices
-    - assigned gender
-    - gender identity
-    - orientations
-    - alignment
+  - [Mechanical Choices](README.md#mechanical-choices)
+    - [Race + Subrace](README.md#)
+    - [Class + Subclass](README.md#)
+    - [Background](README.md#background)
+    - [Feats](README.md#feats)
+  - [Personality Choices](README.md#personality-choices)
+    - [assigned gender](README.md#assigned-gender)
+    - [gender identity](README.md#gender-identity)
+    - [orientations](README.md#orientations)
+    - [alignment](README.md#alignment)
 
 ## Mechanical Choices
 Despite being far more important to the actual _game_, I've personally found dealing with these choices to be much easier; both in picking them for my own characters, and in building these tables. They're very subjective, while personality choices are fluid and changeable. But I'll get into that more in that section.
