@@ -1,0 +1,40 @@
+{
+	"id": "cf-abot",
+	"name": "ABOT: An aBundance of Tables",
+	"title": "ABOT: An aBundance of Tables",
+	"description": "Crush that decision paralysis! A collection of rolling tables for making both mechanical choices (Race+Subrace, Class+Subclass, Background, Feats) and personality choices (assigned gender, gender identity, romantic/sexual orientation, alignment) -- for when you're on a time crunch or just don't know where to start!",
+	"version": "1.2.0",
+	"authors": [
+		{
+			"name": "CelestialFirestorm"
+		}
+	],
+	"minimumCoreVersion": "10",
+	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10"
+	},
+	"packs": [
+		{
+			"name": "mechanical-choices",
+			"label": "Mechanical Choices",
+			"path": "./packs/mechanical-choices.db",
+			"type": "RollTable"
+		},
+		{
+			"name": "sub-info",
+			"label": "Sub Info",
+			"path": "./packs/sub-info.db",
+			"type": "RollTable"
+		},
+		{
+			"name": "personality-choices",
+			"label": "Personality Choices",
+			"path": "./packs/personality-choices.db",
+			"type": "RollTable"
+		}
+	],
+	"manifest": "https://raw.githubusercontent.com/ughjonnjonzz/cf-abot/main/module.json",
+	"download": "https://github.com/ughjonnjonzz/cf-abot/archive/refs/heads/main.zip"
+  }
