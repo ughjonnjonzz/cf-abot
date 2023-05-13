@@ -6,7 +6,9 @@
 	"version": "1.2.0",
 	"authors": [
 		{
-			"name": "CelestialFirestorm"
+			"name": "CelestialFirestorm",
+			"discord": "ughjonnjonzz#8107",
+			"url": "https://github.com/ughjonnjonzz/cf-abot"
 		}
 	],
 	"minimumCoreVersion": "10",
